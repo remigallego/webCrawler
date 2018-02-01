@@ -8,7 +8,7 @@ Node.js
 
 ### Example
 
-The following command downloads the page http://www.nyan.cat
+The following command downloads the HTML page at http://www.nyan.cat
 ```
 node webCrawler.js www.nyan.cat
 ```
