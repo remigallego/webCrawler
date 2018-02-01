@@ -15,5 +15,5 @@ node webCrawler.js www.nyan.cat
 
 ## Acknowledgments
 
-* Big thanks to Azat Mardan from EDX's DEV283x course.
+Big thanks to Azat Mardan from EDX's DEV283x course.
 
