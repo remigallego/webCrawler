@@ -12,7 +12,7 @@ Make sure to be in the same folder
 The following command downloads the HTML page at http://www.nyan.cat
 ```
 npm install
-node webCrawler.js www.nyan.cat
+node index.js www.nyan.cat
 ```
 
 ## Acknowledgments
