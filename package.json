@@ -1,15 +1,24 @@
 {
   "name": "webcrawler",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple program built with Node.js that downloads a given HTML page.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Remi Gallego",
   "license": "ISC",
   "dependencies": {
     "uuid": "^3.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remigallego/webCrawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remigallego/webCrawler/issues"
+  },
+  "homepage": "https://github.com/remigallego/webCrawler#readme"
 }
