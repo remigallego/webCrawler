@@ -1,6 +1,6 @@
 # webCrawler
 
-A simple program built with Node.js that downloads a given HTML page and gives some stats.
+A simple program built with Node.js that downloads a given HTML page.
 
 ### Prerequisites
 
