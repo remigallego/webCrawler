@@ -21,6 +21,7 @@ module.exports = function downloadPage(url, callback)
   };
 
   getPage(url, function writePage(data) {
+    let filesinfos = {};
     if(data === null)
     {return callback("-- Error downloading the page");}
 
