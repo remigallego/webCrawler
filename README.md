@@ -8,7 +8,7 @@ Node.js
 
 ### Example
 
-Make sure to be in the same folder
+Make sure to be in the same folder.<br>
 The following command downloads the HTML page at http://www.nyan.cat
 ```
 npm install
